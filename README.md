@@ -1,2 +1,4 @@
 # Forage Quantium repo
-This repo contains everything you need to get started on the program! Good luck!
+utilize Python, Dash and Pandas to do data visualization
+
+draw a line chart to illustrate daily sales of one product in different regions

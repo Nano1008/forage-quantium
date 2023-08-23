@@ -1,5 +1,5 @@
 # Quantium Software Engineering program held by Forage
-Purpose: 
+Purpose: Create a Dash app to visualise data
 
 Part 1: Set Up Your Local Development Environment
 

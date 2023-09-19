@@ -24,3 +24,6 @@ Part 5: Test Your Dash Application
 Part 6: Automate Your Test Suite
 
 &emsp;&emsp;Implement a bash script which automatically runs the test suite
+
+<img width="1276" alt="image" src="https://github.com/Nano1008/forage-quantium-swe-program/assets/97524418/f97ac5d4-c071-4177-af18-059a81a3c00c">
+
